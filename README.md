@@ -1,4 +1,4 @@
-# README - APP FREE DOC **THP**
+# README - APP FREE DOC THP
 
 ###L'installation
 
